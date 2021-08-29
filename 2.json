@@ -1,0 +1,47 @@
+{
+  "title": "The story about my girlfriend",
+  "description": "The story about my girlfriend",
+  "artist": "三可九丸",
+  "author": "三可九丸",
+  "cover": "https://media.discordapp.net/attachments/843531995110965338/866062465661403149/IMG_20210718_050253.jpg",
+  "chapters": {
+    "1": {
+      "title": "My Girlfriend is So Cute",
+      "volume": "",
+      "last_updated": "1626554081",
+      "groups": {
+        "RingHeilgh": "/proxy/api/imgur/chapter/kUgajZt/"
+      }
+    },
+    "My Girlfriend and Instincts": {
+      "title": "My Girlfriend and Instincts",
+      "volume": "",
+      "last_updated": "1626813324",
+      "groups": {
+        "RingHeilgh": "/proxy/api/imgur/chapter/Lmul7WJ/"
+      }
+    },
+    "My Girlfriend and Movie": {
+      "title": "My Girlfriend and Movie",
+      "volume": "",
+      "last_updated": "1627331747",
+      "groups": {
+        "RingHeilgh": "/proxy/api/imgur/chapter/tFuRf2f/"
+      }
+    },
+    "My Girlfriend and height": {
+      "title": "My Girlfriend and height",
+      "volume": "",
+      "last_updated": "1630269391",
+      "groups": {
+        "RingHeilgh": [
+          "https://i.redd.it/92ta5t3r8jj71.png",
+          "https://i.redd.it/aklwe53r8jj71.png",
+          "https://i.redd.it/q4pep93r8jj71.png",
+          "https://i.redd.it/ezu0ke3r8jj71.png",
+          "https://i.redd.it/ndpmyuks8jj71.png"
+        ]
+      }
+    }
+  }
+}
